@@ -1,4 +1,43 @@
-num = input('Number:')
-def number(x,x1,x2,x3,x4,x5,x6,x7,x8,x9):
-    print('Number: ' + num)
-number()
+def print_num(num):
+    print(8)
+print_num(print)
+
+def print_num(num):
+    print(8)
+print_num(print)
+
+def print_num(num):
+    print(0)
+print_num(print)
+
+def print_num(num):
+    print(0)
+print_num(print)
+
+def print_num(num):
+    print(5)
+print_num(print)
+
+def print_num(num):
+    print(5)
+print_num(print)
+
+def print_num(num):
+    print(5)
+print_num(print)
+
+def print_num(num):
+    print(3)
+print_num(print)
+
+def print_num(num):
+    print(5)
+print_num(print)
+
+def print_num(num):
+    print(3)
+print_num(print)
+
+def print_num(num):
+    print(5)
+print_num(print)
